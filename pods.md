@@ -1,3 +1,5 @@
-introducing pods
+introducing pods from vscode
+![Alt text](image.png)
 
-![[Pasted image 20240102130527.png]]
+please check this 
+![Alt text](image-1.png)
