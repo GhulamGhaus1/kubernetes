@@ -1,2 +1,3 @@
 introducing pods
-![[Pasted image 20240102125159.png]]
+
+![[Pasted image 20240102130527.png]]
