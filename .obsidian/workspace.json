@@ -11,8 +11,12 @@
             "id": "707478673c8e838d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pods.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pods.md"
+              }
             }
           }
         ]
@@ -140,7 +148,8 @@
   },
   "active": "707478673c8e838d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Pasted image 20240102125159.png",
+    "pods.md",
     "Untitled.canvas",
     "Welcome.md",
     "create a link.md",
